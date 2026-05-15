@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/orbital_sim.dir/src/main.cpp.o CMakeFiles/orbital_sim.dir/src/physics/twobody.cpp.o CMakeFiles/orbital_sim.dir/src/physics/state.cpp.o CMakeFiles/orbital_sim.dir/src/integrators/rkf45.cpp.o CMakeFiles/orbital_sim.dir/src/utils/math_utils.cpp.o -o orbital_sim
