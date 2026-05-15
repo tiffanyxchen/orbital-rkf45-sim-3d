@@ -1,0 +1,3 @@
+/Users/star/twoBody3D-rkf45-tiff/build/CMakeFiles/orbital_sim.dir
+/Users/star/twoBody3D-rkf45-tiff/build/CMakeFiles/edit_cache.dir
+/Users/star/twoBody3D-rkf45-tiff/build/CMakeFiles/rebuild_cache.dir
